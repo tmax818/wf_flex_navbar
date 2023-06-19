@@ -1,0 +1,38 @@
+body {
+    font-family: 'Roboto', serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+}
+
+.nav {
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    margin: -8px;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 30px;
+}
+
+.btn {
+    margin-left: 20px;
+    background-color: #17A2B8;
+    color: white;
+}
+
+.nav-title {
+    margin-left: 20px;
+}
